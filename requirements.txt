@@ -1,0 +1,19 @@
+# Βασικές βιβλιοθήκες NLP
+nltk>=3.7
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+bert-score>=0.3.11
+datasets>=2.0.0
+
+# Επιστημονικοί υπολογισμοί & ML
+torch>=1.13.0
+scikit-learn>=1.0.0
+numpy>=1.21.0
+pandas>=1.3.0
+
+# Απεικόνιση δεδομένων
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Unicode (προαιρετικό)
+unicodedata2>=1.4.0  # ή χρήση built-in unicodedata
